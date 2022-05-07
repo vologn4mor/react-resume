@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-resume/static/css/main.71fb1aa4.css",
-    "main.js": "/react-resume/static/js/main.93bbe125.js",
+    "main.js": "/react-resume/static/js/main.7a44d67c.js",
     "static/media/my_photo.jpg": "/react-resume/static/media/my_photo.01e884c6b495d0a0000d.jpg",
     "static/media/roboto-v29-cyrillic-500.woff2": "/react-resume/static/media/roboto-v29-cyrillic-500.3b5f561e8caa3803daee.woff2",
     "static/media/roboto-v29-cyrillic-700.woff2": "/react-resume/static/media/roboto-v29-cyrillic-700.4bdcfadc292241e3b817.woff2",
@@ -12,10 +12,10 @@
     "static/media/gmail.svg": "/react-resume/static/media/gmail.ab6acc4de861d7cfe8e41c796447939e.svg",
     "static/media/telegram.svg": "/react-resume/static/media/telegram.d213170ac23a67668f66a9edacd2c376.svg",
     "main.71fb1aa4.css.map": "/react-resume/static/css/main.71fb1aa4.css.map",
-    "main.93bbe125.js.map": "/react-resume/static/js/main.93bbe125.js.map"
+    "main.7a44d67c.js.map": "/react-resume/static/js/main.7a44d67c.js.map"
   },
   "entrypoints": [
     "static/css/main.71fb1aa4.css",
-    "static/js/main.93bbe125.js"
+    "static/js/main.7a44d67c.js"
   ]
 }
